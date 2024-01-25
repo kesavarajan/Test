@@ -247,60 +247,6 @@
     "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd"
   },
   {
-    "channel_name": "Tata Play Toons+",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png",
-    "channel_entitlements": [
-      "1000001819",
-      "1000002181",
-      "1000000001",
-      "1000002141",
-      "1000000002"
-    ],
-    "channel_genre": "Tata Sky",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001156",
-    "channel_id": "994",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd"
-  },
-  {
-    "channel_name": "Gubbare",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",
-    "channel_entitlements": [
-      "1000001272",
-      "1000001703",
-      "1000001342",
-      "1000002387",
-      "1000001811",
-      "1000001199",
-      "1000001085",
-      "1000001079",
-      "1000001350",
-      "1000001226",
-      "1000001092",
-      "1000001349",
-      "1000002206",
-      "1000001108",
-      "1000000812",
-      "1000001363",
-      "1000001200",
-      "1000001189",
-      "1000000053",
-      "1000000794",
-      "1000000002",
-      "1000001345",
-      "1000001231",
-      "1000000001",
-      "1000001225",
-      "1000001115",
-      "1000001188",
-      "1000001109",
-      "1000001273"
-    ],
-    "channel_genre": "Tata Sky",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001009",
-    "channel_id": "867",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd"
-  },
-  {
     "channel_name": "National Geographic HD",
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",
     "channel_entitlements": [
@@ -775,20 +721,6 @@
   },
   {
     "channel_name": "Tata Play Toons+",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png",
-    "channel_entitlements": [
-      "1000000001",
-      "1000000002",
-      "1000002141",
-      "1000001819"
-    ],
-    "channel_genre": "Tata Sky",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001158",
-    "channel_id": "995",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/manifest.mpd"
-  },
-  {
-    "channel_name": "Tata Play Toons+",
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png",
     "channel_entitlements": [
       "1000001819",
@@ -1176,20 +1108,6 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000214",
     "channel_id": "200",
     "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/manifest.mpd"
-  },
-  {
-    "channel_name": "Tata Play Toons+",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png",
-    "channel_entitlements": [
-      "1000002141",
-      "1000001819",
-      "1000000001",
-      "1000000002"
-    ],
-    "channel_genre": "Tata Sky",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001160",
-    "channel_id": "997",
-    "channel_url": "https://delta13tatasky.akamaized.net/out/i/5615195.mpd"
   },
   {
     "channel_name": "Raj TV",
@@ -1880,17 +1798,5 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000517",
     "channel_id": "490",
     "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_771/output/manifest.mpd"
-  },
-  {
-    "channel_name": "Tata Play Toons+",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSPUN_Thumbnail-v4/TONSPUN_Thumbnail.png",
-    "channel_entitlements": [
-      "1000000001",
-      "1000002141"
-    ],
-    "channel_genre": "Tata Sky",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001161",
-    "channel_id": "998",
-    "channel_url": "https://delta13tatasky.akamaized.net/out/i/5616001.mpd"
   }
 ]
