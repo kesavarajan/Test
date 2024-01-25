@@ -9,4 +9,5 @@
   "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000385",
   "channel_id": "345",
   "channel_url": "https://delta15tatasky.akamaized.net/out/i/1460881.mpd"
-}]
+},
+{"channel_name":"SONY PIX","channel_logo":"https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png","channel_entitlements":["1000001035","1000001290"],"channel_genre":"Tata Sky","channel_license_url":"https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000587","channel_id":"558","channel_url":"https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd"}]
