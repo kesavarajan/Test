@@ -893,7 +893,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000271",
     "channel_id": "257",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd"
+    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Colors Tamil HD",
