@@ -367,7 +367,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000433",
     "channel_id": "413",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd"
+    "channel_url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Nat Geo Wild",
@@ -778,7 +778,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000542",
     "channel_id": "521",
-    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd"
+    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Tata Play Tamil Classics",
@@ -791,7 +791,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001411",
     "channel_id": "1260",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd"
+    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Sun Life",
@@ -820,7 +820,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000501",
     "channel_id": "474",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd"
+    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Star Vijay HD",
@@ -906,7 +906,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000633",
     "channel_id": "608",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd"
+    "channel_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Zee Tamil",
