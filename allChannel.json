@@ -322,7 +322,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000433",
     "channel_id": "413",
-    "channel_url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd?hdnea=exp=9999999999~acl=/*~hmac=a"
+    "channel_url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd?hdnea=exp=~acl=/*~hmac=a"
   },
   {
     "channel_name": "Nat Geo Wild",
