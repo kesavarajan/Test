@@ -848,52 +848,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000633",
     "channel_id": "608",
-    "channel_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd?hdnea=exp=1708264185~acl=/*~hmac="
-  },
-  {
-    "channel_name": "Zee Tamil",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png",
-    "channel_entitlements": [
-      "1000001035",
-      "1000001794",
-      "1000001553",
-      "1000001397",
-      "1000001267",
-      "1000001078",
-      "1000000666",
-      "1000002411",
-      "1000001504",
-      "1000001076",
-      "1000001821",
-      "1000001420",
-      "1000000267",
-      "1000001517",
-      "1000001221",
-      "1000001374",
-      "1000000816",
-      "1000002405",
-      "1000002409",
-      "1000001728",
-      "1000001545",
-      "1000002412",
-      "1000001434",
-      "1000001546",
-      "1000001430",
-      "1000001523",
-      "1000002226",
-      "1000001509",
-      "1000001139",
-      "1000001428",
-      "1000000884",
-      "1000000001",
-      "1000001212",
-      "1000002413",
-      "1000001375"
-    ],
-    "channel_genre": "Tata Sky",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000271",
-    "channel_id": "257",
-    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
+    "channel_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Colors Tamil HD",
@@ -1279,18 +1234,6 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000213",
     "channel_id": "201",
     "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/manifest.mpd"
-  },
-  {
-    "channel_name": "Zee Thirai HD",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png",
-    "channel_entitlements": [
-      "1000000002",
-      "1000002473"
-    ],
-    "channel_genre": "Tata Sky",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001322",
-    "channel_id": "1182",
-    "channel_url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Zee Thirai",
