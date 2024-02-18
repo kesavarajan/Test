@@ -322,7 +322,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000433",
     "channel_id": "413",
-    "channel_url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
+    "channel_url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd?hdnea=exp=9999999999~acl=/*~hmac="
   },
   {
     "channel_name": "Nat Geo Wild",
@@ -848,7 +848,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000633",
     "channel_id": "608",
-    "channel_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
+    "channel_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd?hdnea=exp=9999999999~acl=/*~hmac="
   },
   {
     "channel_name": "Zee Tamil",
@@ -1290,7 +1290,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001322",
     "channel_id": "1182",
-    "channel_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd"
+    "channel_url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Zee Thirai",
@@ -1324,7 +1324,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000884",
     "channel_id": "797",
-    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd"
+    "channel_url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "SONY SPORTS TEN 4",
@@ -1709,7 +1709,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000300",
     "channel_id": "282",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd"
+    "channel_url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "Nambikkai TV",
@@ -1724,7 +1724,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000430",
     "channel_id": "408",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_651/output/manifest.mpd"
+    "channel_url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_651/output/manifest.mpd?hdnea=exp=~acl=/*~hmac="
   },
   {
     "channel_name": "SVBC 2",
