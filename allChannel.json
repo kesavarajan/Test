@@ -733,7 +733,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000542",
     "channel_id": "521",
-    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd?hdnea=exp=~acl=/*~hmac=aa"
+    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd"
   },
   {
     "channel_name": "Sun Life",
@@ -762,7 +762,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000501",
     "channel_id": "474",
-    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd?hdnea=exp=~acl=/*~hmac=a"
+    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd"
   },
   {
     "channel_name": "Star Vijay HD",
@@ -848,7 +848,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000633",
     "channel_id": "608",
-    "channel_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd?hdnea=exp=~acl=/*~hmac=a"
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd"
   },
   {
     "channel_name": "Colors Tamil HD",
@@ -1267,7 +1267,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000884",
     "channel_id": "797",
-    "channel_url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd?hdnea=exp=~acl=/*~hmac=a"
+    "channel_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd"
   },
   {
     "channel_name": "SONY SPORTS TEN 4",
@@ -1311,7 +1311,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000464",
     "channel_id": "444",
-    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd?hdnea=exp=~acl=/*~hmac=a"
+    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd"
   },
   {
     "channel_name": "Puthiya Thalaimurai",
@@ -1413,7 +1413,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000554",
     "channel_id": "525",
-    "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd?hdnea=exp=~acl=/*~hmac=a"
+    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd"
   },
   {
     "channel_name": "Sathiyam TV",
@@ -1652,7 +1652,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000300",
     "channel_id": "282",
-    "channel_url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd?hdnea=exp=~acl=/*~hmac=a"
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd"
   },
   {
     "channel_name": "Nambikkai TV",
