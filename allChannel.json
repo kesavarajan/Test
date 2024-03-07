@@ -733,7 +733,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000542",
     "channel_id": "521",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd"
+    "channel_url": "https://bpprod3live.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd"
   },
   {
     "channel_name": "Sun Life",
