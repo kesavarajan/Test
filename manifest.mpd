@@ -7,7 +7,7 @@
       <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <Representation id="audio_94482_eng=94000" bandwidth="94000">
-      <SegmentTemplate timescale="48000" initialization="KTV_HD-$RepresentationID$.dash?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" media="KTV_HD-$RepresentationID$-$Number$.m4s?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" startNumber="213753666">
+      <SegmentTemplate timescale="48000" initialization="KTV_HD-$RepresentationID$.dash?" startNumber="213753666">
       <SegmentTimeline><S t="82081407360000" d="384000" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <ContentProtection value="cenc" schemeIdUri="urn:mpeg:dash:mp4protection:2011"/>
       <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="PlayReady"/>
@@ -16,25 +16,25 @@
     <AdaptationSet id="2" group="2" contentType="video" par="16:9" minBandwidth="226400" maxBandwidth="3187600" maxWidth="1920" maxHeight="1080" segmentAlignment="true" sar="1:1" frameRate="25" mimeType="video/mp4" startWithSAP="1">
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <Representation id="video=226400" bandwidth="226400" width="320" height="180" codecs="avc1.4D401E" scanType="progressive">
-      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" media="KTV_HD-$RepresentationID$-$Number$.m4s?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" startNumber="213753666">
+      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash" startNumber="213753666">
       <SegmentTimeline><S t="1026017592000" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=457600" bandwidth="457600" width="480" height="270" codecs="avc1.4D401E" scanType="progressive">
-      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" media="KTV_HD-$RepresentationID$-$Number$.m4s?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" startNumber="213753666">
+      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?" startNumber="213753666">
       <SegmentTimeline><S t="1026017592000" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=877600" bandwidth="877600" width="640" height="360" codecs="avc1.4D401E" scanType="progressive">
-      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" media="KTV_HD-$RepresentationID$-$Number$.m4s?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" startNumber="213753666">
+      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?" startNumber="213753666">
       <SegmentTimeline><S t="1026017592000" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=1297600" bandwidth="1297600" width="854" height="480" codecs="avc1.4D401E" scanType="progressive">
-      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" media="KTV_HD-$RepresentationID$-$Number$.m4s?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" startNumber="213753666">
+      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?" startNumber="213753666">
       <SegmentTimeline><S t="1026017592000" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=1927600" bandwidth="1927600" width="960" height="540" codecs="avc1.4D401F" scanType="progressive">
-      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" media="KTV_HD-$RepresentationID$-$Number$.m4s?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" startNumber="213753666">
+      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?" startNumber="213753666">
       <SegmentTimeline><S t="1026017592000" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=2452400" bandwidth="2452400" width="1280" height="720" codecs="avc1.4D401F" scanType="progressive">
-      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" media="KTV_HD-$RepresentationID$-$Number$.m4s?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" startNumber="213753666">
+      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?" startNumber="213753666">
       <SegmentTimeline><S t="1026017592000" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=3187600" bandwidth="3187600" width="1920" height="1080" codecs="avc1.640028" scanType="progressive">
-      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" media="KTV_HD-$RepresentationID$-$Number$.m4s?idt=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTAwNDI1NTcsImNvbnRlbnRJZCI6MzgwLCJjb250ZW50VHlwZSI6IkxJVkUiLCJzdWJzY3JpYmVySWQiOiIxNDA4ODA1MzA1In0.oPFCkPO19ebV5sRd_YTDlp5K3buTZAQbFHA8r2ktwg0" startNumber="213753666">
+      <SegmentTemplate timescale="600" initialization="KTV_HD-$RepresentationID$.dash?" startNumber="213753666">
       <SegmentTimeline><S t="1026017592000" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <ContentProtection value="cenc" schemeIdUri="urn:mpeg:dash:mp4protection:2011"/>
       <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="PlayReady"/>
