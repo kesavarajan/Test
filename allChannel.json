@@ -102,7 +102,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000614",
     "channel_id": "587",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd"
+    "channel_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd"
   },
   {
     "channel_name": "Cartoon Network",
@@ -1108,7 +1108,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000615",
     "channel_id": "611",
-    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd"
+    "channel_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd"
   },
   {
     "channel_name": "Polimer TV",
