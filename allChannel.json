@@ -116,20 +116,6 @@
     "channel_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd"
   },
   {
-    "channel_name": "Tata Play Toons+",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png",
-    "channel_entitlements": [
-      "1000001819",
-      "1000000001",
-      "1000002141",
-      "1000000002"
-    ],
-    "channel_genre": "Tata Sky",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001157",
-    "channel_id": "996",
-    "channel_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd"
-  },
-  {
     "channel_name": "Sirippoli",
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png",
     "channel_entitlements": [
@@ -175,5 +161,6 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000683",
     "channel_id": "647",
     "channel_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_578/output/manifest.mpd"
-  }
+  },
+   {"channel_id": "496", "channel_name": "Star Vijay HD", "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000526", "channel_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd", "channel_entitlements": ["1000001212", "1000001456", "1000001465", "1000002405", "1000001035", "1000001076", "1000002255", "1000001182", "1000000561", "1000000033", "1000002413", "1000001375", "1000001173", "1000002412", "1000001374", "1000001078", "1000001517", "1000000001", "1000002666", "1000000819", "1000002411", "1000001504", "1000001523", "1000001397", "1000001221", "1000000175", "1000002409", "1000001430", "1000000822", "1000001434"], "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png", "channel_genre": "Regional Tamil"}
 ]
