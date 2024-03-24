@@ -273,7 +273,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000433",
     "channel_id": "413",
-    "channel_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd"
+    "channel_url": "https://beta-ts-sable.vercel.app/index.php?id=413"
   },
   {
     "channel_name": "Discovery HD World",
@@ -644,7 +644,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000542",
     "channel_id": "521",
-    "channel_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd"
+    "channel_url": "https://beta-ts-sable.vercel.app/index.php?id=521"
   },
   {
     "channel_name": "Sun Life",
@@ -673,7 +673,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000501",
     "channel_id": "474",
-    "channel_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd"
+    "channel_url": "https://beta-ts-sable.vercel.app/index.php?id=474"
   },
   {
     "channel_name": "Star Vijay HD",
@@ -759,7 +759,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000633",
     "channel_id": "608",
-    "channel_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd"
+    "channel_url": "https://beta-ts-sable.vercel.app/index.php?id=608"
   },
   {
     "channel_name": "Colors Tamil HD",
@@ -1119,7 +1119,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000400",
     "channel_id": "380",
-    "channel_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd"
+    "channel_url": "https://beta-ts-sable.vercel.app/index.php?id=380"
   },
   {
     "channel_name": "J Movies",
@@ -1178,7 +1178,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000884",
     "channel_id": "797",
-    "channel_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd"
+    "channel_url": "https://beta-ts-sable.vercel.app/index.php?id=797"
   },
   {
     "channel_name": "SONY SPORTS TEN 4",
