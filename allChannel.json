@@ -713,7 +713,7 @@
     "channel_genre": "Tata Sky",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000526",
     "channel_id": "496",
-    "channel_url": "https://beta-ts-sable.vercel.app/index.php?id=496"
+    "channel_url": "https://test-ts-sable.vercel.app/api/tp?id=496"
   },
   {
     "channel_name": "Zee Tamil HD",
